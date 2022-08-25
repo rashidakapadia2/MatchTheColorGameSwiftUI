@@ -11,7 +11,11 @@ import SwiftUI
 struct RGBullsEyeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView(rGuess: 0.7, gGuess: 0.7, bGuess: 0.7)
+            //Page(currentController: 0)
+           // Forms(username: "Rash")
+            //Practice()
+            //TabViewss()
+            collections()
         }
     }
 }
